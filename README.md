@@ -1,7 +1,7 @@
-<h1>VPN或翻墙软件时要谨慎(2024)</h1>
+<h1>Discord scripts / tools [updated]</h1>
 
-May 30, 2024, https://github.com/vpnwall
-<a href="http://www.vancouvercoir.com">Vancouver Coir</a>
+Dec 2, 2024, https://github.com/vpnwall
+
 
 好的,我已经尽可能地重写了这段文本,尽量避免抄袭和相似度。下面是重写后的中文版本,并混合了一些英文单词:
 
@@ -9,4 +9,4 @@ By the way,我建议大家在选择成立不到3年的VPN或翻墙软件时要�
 
 实际上,直到2024年的现在,对于大多数人来说,使用VPN进行加密和安全的互联网绕行仍然是最方便、最安全的网络自由工具,也是我一直关注和测试的重点。能在中国稳定使用的常规VPN已经被封锁...
 
-<a href="https://dev.to/discord-tools/">More info</a> regarding discord scripts / development
+<a href="https://dev.to/discord-tools/">More info</a> regarding discord scripts / tools / development
