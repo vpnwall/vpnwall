@@ -9,4 +9,4 @@ By the way,我建议大家在选择成立不到3年的VPN或翻墙软件时要�
 
 实际上,直到2024年的现在,对于大多数人来说,使用VPN进行加密和安全的互联网绕行仍然是最方便、最安全的网络自由工具,也是我一直关注和测试的重点。能在中国稳定使用的常规VPN已经被封锁...
 
-<a href="https://dev.to/discord-tools/">More info</a> regarding discord scripts / tools / development
+
